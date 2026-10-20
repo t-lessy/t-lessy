@@ -1,18 +1,18 @@
 <img width="64" align="left" src="assets/forgejo_grayscale.svg">
 
 ### Ego sum [t-lessy]
-Я - Лесси, местный админ и паренёк из Сибири. Люблю самохостинг, хоть и не умею программировать что-то своё.
+I'm Lessy, local admin from Siberia. I love selfhosting, but have no programming experience.
 
 ---
 
-#### Обо мне:
-- Всегда рад попробовать изучить что-то вместе с вами. Я не сторонюсь знаний, хоть знаю по-большей лишь теорию.
-- Если вам понадобится личный или игровой сервис на моём хосте (*mlado.ru*), то я буду рад предоставить его вам *ради практики*.
-- В основном я зеркалирую любимые репозитории, что хочу сберечь, либо заливаю свои недо-проекты по типу [@Laconeedle](https://mlado.ru/laconeedle_git) или [socratt](https://git.tlessy.ru/t-lessy/socratt.git).
+#### About me:
+- Always happy to learn with you. I'm not afraid to try something new, but my current knowledge is mostly theoretical.
+- If you need any private or game servers on my host (*mlado.ru*), I'd like to host it for my own practice.
+- Here I mostly mirror repos, which I wanna save from oblivion, and doing my own business like the [@Laconeedle](https://mlado.ru/laconeedle_git) or the [socratt](https://git.tlessy.ru/t-lessy/socratt.git).
 
 ---
 
-#### Мои страницы в сети:
-- <img width="16" align="center" src="assets/blog.svg"> [Страничка в сети](https://mlado.ru/ego)
+#### Find me online:
+- <img width="16" align="center" src="assets/blog.svg"> [My web page](https://mlado.ru/ego)
 - <img width="16" align="center" src="assets/telegram.svg"> [Telegram](https://t.me/laconeedle)
-- <img width="16" align="center" src="assets/github.svg"> [Github](https://github.com/t-lessy)
+- <img width="16" align="center" src="assets/github.svg"> [GitHub](https://github.com/t-lessy)
