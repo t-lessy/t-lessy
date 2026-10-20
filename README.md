@@ -1,4 +1,4 @@
-<img width="64" height="auto" align="left" src="assets/forgejo_grayscale.svg">
+<img width="64" height="84" align="left" src="assets/forgejo_grayscale.svg">
 
 ### Ego sum [t-lessy]
 I'm Lessy, local admin from Siberia. I love selfhosting, but have no programming experience.

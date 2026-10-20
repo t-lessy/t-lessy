@@ -1,4 +1,4 @@
-<img width="64" height="auto" align="left" src="assets/forgejo_grayscale.svg">
+<img width="64" height="84" align="left" src="assets/forgejo_grayscale.svg">
 
 ### Ego sum [t-lessy]
 Я - Лесси, местный админ и паренёк из Сибири. Люблю самохостинг, хоть и не умею программировать что-то своё.
